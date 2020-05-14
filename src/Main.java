@@ -24,7 +24,7 @@ public class Main {
 
         System.out.println("Hmm...let me guess! Your last name is " + lastName + "! Am I correct? ");
 
-
+        System.out.println("Hey Gui. This is Oleksii");
 
     }
 }
