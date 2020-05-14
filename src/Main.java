@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         System.out.println("This program will guess your last name based on your first name");
         System.out.println("Please enter your first name: ");
@@ -25,6 +25,7 @@ public class Main {
         System.out.println("Hmm...let me guess! Your last name is " + lastName + "! Am I correct? ");
 
         System.out.println("Hey Gui. This is Oleksii");
+        System.out.println("Hey Gui. This is Xachary");
 
     }
 }
